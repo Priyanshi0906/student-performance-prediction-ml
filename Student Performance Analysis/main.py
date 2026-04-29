@@ -12,8 +12,6 @@ from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import (mean_squared_error, r2_score,
                              accuracy_score, confusion_matrix,
                              classification_report)
-import warnings
-warnings.filterwarnings('ignore')
 
 #  1. LOAD DATASET and CLEAN DATASET
 
