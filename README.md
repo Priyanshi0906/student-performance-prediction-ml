@@ -28,7 +28,7 @@
 - 🤖 Model Training & Evaluation  
 - 📉 Metrics: RMSE, R², Accuracy  
 - 🧪 New Student Prediction  
-- 📄 PDF Report Generation using ReportLab  
+ 
 
 ---
 
